@@ -6,7 +6,7 @@ public class GradeCalculator {
 	
 	public static void main(String[] args) {
 		
-		float marks;
+	float marks;
         Scanner s = new Scanner (System.in);
         System.out.println("Enter Your Marks:");
         marks = s.nextFloat();
