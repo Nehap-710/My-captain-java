@@ -13,7 +13,7 @@ public class Fibonacci {
 		n = scan.nextInt();
 		System.out.print(f0+ " " + f1);
 		while(i<n) {
-			f2=f0+f1;
+		    f2=f0+f1;
 		    f0=f1;
 		    f1=f2;
 		    i=i+1;
